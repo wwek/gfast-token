@@ -2,12 +2,12 @@ module github.com/tiger1103/gfast-token
 
 go 1.23.0
 
-toolchain go1.24.6
+toolchain go1.23.0
 
 require (
 	github.com/dgraph-io/badger/v4 v4.2.0
-	github.com/gogf/gf/contrib/nosql/redis/v2 v2.9.1
-	github.com/gogf/gf/v2 v2.9.1
+	github.com/gogf/gf/contrib/nosql/redis/v2 v2.9.5
+	github.com/gogf/gf/v2 v2.9.5
 	github.com/golang-jwt/jwt/v5 v5.0.0
 )
 
